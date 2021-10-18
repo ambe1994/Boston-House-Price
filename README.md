@@ -2,9 +2,9 @@
 ## Install
 This project requires [Python 3](https://www.python.org/) and the following Python libraries installed:
 
-[NumPy](https://numpy.org/)
-[Panda](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
+[NumPy](https://numpy.org/), 
+[Panda](https://pandas.pydata.org/),
+[matplotlib](https://matplotlib.org/) and 
 [scikit-learn](https://scikit-learn.org/stable/)
 You will also need to install Anaconda software, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
